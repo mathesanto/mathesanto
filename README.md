@@ -1,6 +1,6 @@
 ### Olá!  👨🏾‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mathesanto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathesanto&layout=compact)](https://github.com/mathesanto/github-readme-stats)
 
 <!--
 **mathesanto/mathesanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
