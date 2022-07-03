@@ -3,6 +3,7 @@
 </p>
 
 - 🌱 Atualmente estou estudando React Native
+- 📝 Estudo também Análise e desenvolvimento de sistemas
 - 🔗 Estou no <a href="https://www.linkedin.com/in/matheusesanto/">Linkedin</a>
 
 -------
