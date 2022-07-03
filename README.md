@@ -1,4 +1,4 @@
-### Olá!  💻📚 
+### <h3>Olá!  💻📚</h3> 
 - 🌱 Atualmente estou estudando React Native
 <div align="center">
   <a href="https://github.com/mathesanto">
