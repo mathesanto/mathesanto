@@ -1,8 +1,8 @@
 ### Olá!  💻📚 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathesanto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/mathesanto">
+  <img height="180em" src="https://www.iconfinder.com/icons/1608639/code_icon"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesanto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--
