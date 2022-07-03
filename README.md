@@ -1,4 +1,4 @@
-### <h3>Olá!  💻📚</h3> 
+### <div border-bottom="1px solid"><h3>Olá!  💻📚</h3></div> 
 - 🌱 Atualmente estou estudando React Native
 <div align="center">
   <a href="https://github.com/mathesanto">
