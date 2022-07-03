@@ -3,6 +3,7 @@
 </p>
 
 - 🌱 Atualmente estou estudando React Native
+- 🔗 Estou no <a href="https://www.linkedin.com/in/matheusesanto/" Linkedin/>
 
 -------
 
