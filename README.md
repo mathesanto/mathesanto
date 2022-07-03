@@ -2,9 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/mathesanto">
-  <img height="180em" src="https://www.iconfinder.com/icons/1608639/code_icon"/>
-  <img height="180em" src="https://www.clipartmax.com/png/middle/113-1133855_icon-code-png-blue.png"/>
-</div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesanto&layout=compact&langs_count=7&theme=dark"/></div>
 <!--
 **mathesanto/mathesanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
