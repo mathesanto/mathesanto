@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/mathesanto">
-  <img height="150em" float="left" src="https://github-readme-stats.vercel.app/api?username=mathesanto&show_icons=true&theme=radical")
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesanto&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathesanto&show_icons=true&theme=radical")
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesanto&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
   
