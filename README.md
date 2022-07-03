@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/mathesanto">
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesanto&layout=compact&langs_count=7&theme=dark"/></div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesanto&layout=compact&langs_count=7&theme=black"/></div>
 <!--
 **mathesanto/mathesanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
