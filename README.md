@@ -7,12 +7,12 @@
 - 🔗 Estou no <a href="https://www.linkedin.com/in/matheusesanto/">Linkedin</a>
 
 -------
-
+<!--
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mathesanto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesanto&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+-->
   
   
   
