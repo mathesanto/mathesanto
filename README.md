@@ -2,8 +2,7 @@
 <p align="center">
 </p>
 
-- 🌱 Atualmente estou estudando Javascript
-- 💻  Estudo também Análise e desenvolvimento de sistemas
+- 💻  Estudo Análise e desenvolvimento de sistemas
 - 🔗 Estou no <a href="https://www.linkedin.com/in/matheusesanto/">Linkedin</a>
 
 -------
