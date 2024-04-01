@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 
-- 💻  Estudo Análise e desenvolvimento de sistemas
+- 💻 Análise e desenvolvimento de sistemas
 - 🔗 Estou no <a href="https://www.linkedin.com/in/matheusesanto/">Linkedin</a>
 
 -------
