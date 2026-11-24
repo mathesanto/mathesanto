@@ -2,9 +2,6 @@
 <p align="center">
 </p>
 
-- 💻 Análise e desenvolvimento de sistemas
-- 🔗 Estou no <a href="https://www.linkedin.com/in/matheusesanto/">Linkedin</a>
-
 -------
 <!--
 <div align="center">
